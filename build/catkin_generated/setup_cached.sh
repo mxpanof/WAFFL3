@@ -8,7 +8,7 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/max/Waffle_ws/devel:$CMAKE_PREFIX_PATH"
-export LD_LIBRARY_PATH="/opt/ros/kinetic/lib:/usr/local/lib/Qt/5.9.1/gcc_64/lib"
+export LD_LIBRARY_PATH="/home/max/Waffle_ws/devel/lib:/opt/ros/kinetic/lib:/usr/local/lib/Qt/5.9.1/gcc_64/lib"
 export PATH="/opt/ros/kinetic/bin:/usr/local/lib/Qt/5.9.1/gcc_64/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin"
 export PKG_CONFIG_PATH="/opt/ros/kinetic/lib/pkgconfig:/usr/local/lib/Qt/5.9.1/gcc_64/lib/pkgconfig"
 export PWD="/home/max/Waffle_ws/build"
